@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Binary output directories
+bin/
+dist/
+
+# Go specific
+*.test
+*.out
+go.workenv
